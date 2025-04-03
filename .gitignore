@@ -1,0 +1,9 @@
+﻿.qodo
+.vs
+client/bin
+client/obj
+*.DS_Store
+unit test/bin
+unit test/obj
+server/obj
+server/bin
